@@ -80,7 +80,7 @@ except KeyError:
 
 
 class Score:
-    '''Write score to file with date and hour of play'''
+    '''Write score to the file with date and hour of play'''
     
         
     
