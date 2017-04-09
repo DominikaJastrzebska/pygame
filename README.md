@@ -1,2 +1,2 @@
 # pygame
-# rock, paper, scizors
+# rock, paper, scizors - simply pygame
